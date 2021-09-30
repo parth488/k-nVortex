@@ -117,7 +117,7 @@ function revincrease(rev_val) {
          document.getElementById(res1).style.opacity="1";},20*j);})(j);
        
          
-        } }, 300);
+        } }, 800);
     
     }
 
