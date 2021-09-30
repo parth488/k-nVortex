@@ -66,7 +66,7 @@ setInterval(function(){
   }
   rev_val=0;
   
- }, 1100);
+ }, 1400);
 
  setInterval(function(){ 
   
